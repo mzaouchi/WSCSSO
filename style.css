@@ -1,0 +1,94 @@
+*{
+    font-family: fantasy;
+    background-color: bisque;
+}
+
+h1{
+    color: aqua;
+}
+
+a{
+    color: green;
+    font-size: 40px;
+    text-decoration: none;
+    margin-left: 60px;
+  
+}
+nav{
+    margin-top: 70px;
+}
+
+h2{
+    color: cornflowerblue;
+    font-size: 80px;
+    text-decoration: underline;
+
+}
+
+#address{
+    color: fuchsia;
+    font-size: 30px;
+}
+
+img{
+    width: 600px;
+    height: 200px;
+    margin-left: 400px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 80px;
+    width: 50%;
+}
+
+ol li{
+    font-size: 30px;
+}
+
+dt{
+    color: darkgreen;
+    font-size: 40px;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+dd{
+    font-size: 20px;
+}
+
+video{
+    width: 600px;
+    height: 318px;
+    margin-left: 130px;
+}
+
+table,td,th{
+    border: 3px solid orange;
+    border-collapse: collapse;
+}
+
+ul li{
+    border: 1px solid blue;
+    width: 100px;
+    margin-bottom: 10px;
+    padding-top: 90px;
+    padding-bottom: 10px;
+}
+
+form{
+    margin-left: 600px;
+}
+
+button{
+    color: darkgoldenrod;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: greenyellow;
+    border: 5px solid palevioletred;
+}
+
+
+
